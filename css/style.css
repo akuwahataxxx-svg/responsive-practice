@@ -29,8 +29,8 @@
   margin-left: 75px;
 }
 .box_two_2{
-  justify-content:center;
   display: flow-root;
+  width:fit-content;
 }
 .box_red_2{
   background-color: #ff0000;
@@ -173,6 +173,7 @@
   }
 
 }
+
 
 
 
