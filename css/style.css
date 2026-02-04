@@ -30,11 +30,13 @@
 }
 .box_red_2{
   background-color: #ff0000;
+  float: left;
   width:300px;
   height: 300px;
 }
 .box_blue_2{
   background-color: #0008ff;
+  float: left;
   width:300px;
   height: 300px;
 }
@@ -137,7 +139,10 @@
   .box_green{
     margin-left: 25px;
   }
-  .box_two_2{
+  .box_red_2{
+    float: none;
+  }
+  .box_blue_2{
     float: none;
   }
   .box_three_1{
@@ -163,4 +168,5 @@
   }
 
 }
+
 
