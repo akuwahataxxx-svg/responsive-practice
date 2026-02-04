@@ -28,6 +28,9 @@
   height: 300px;
   margin-left: 75px;
 }
+.box_two_2{
+  display: flow-root;
+}
 .box_red_2{
   background-color: #ff0000;
   float: left;
@@ -169,6 +172,7 @@
   }
 
 }
+
 
 
 
