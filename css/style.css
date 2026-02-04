@@ -29,6 +29,7 @@
   margin-left: 75px;
 }
 .box_two_2{
+  justify-content:center;
   display: flow-root;
 }
 .box_red_2{
@@ -172,6 +173,7 @@
   }
 
 }
+
 
 
 
